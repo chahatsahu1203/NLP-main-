@@ -336,7 +336,7 @@ By working through these experiments, you can:
 
 ## Author
 
-**Arnav Ghai**
+**CHAHAT SAHU**
 
 ## License
 
